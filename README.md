@@ -31,25 +31,25 @@ Gamification at Pfeffermind 30min
 ```
 Track 1:
 
-09:00AM Writing Fast Tests Against Enterprise Rails 60min
+09:00AM Accounting-Driven Development 45min
 
-10:00AM Ruby on Rails Legacy App Maintenance 60min
+09:45AM Writing Fast Tests Against Enterprise Rails 60min
 
-11:00AM Accounting-Driven Development 45min
+10:45AM Ruby on Rails Legacy App Maintenance 60min
 
 11:45AM Break
 
 12:00PM Lunch
 
-01:00PM A World Without HackerNews 30min
+01:00PM Clojure Ate Scala (on my project) 45min
 
-01:30PM Rails Magic 60min
+01:45PM Ruby Errors from Mismatched Gem Versions 45min
 
-02:30PM Clojure Ate Scala (on my project) 45min
+02:30PM Sit Down and Write 30min
 
-03:15PM Sit Down and Write 30min
+03:00PM A World Without HackerNews 30min
 
-03:45PM Ruby Errors from Mismatched Gem Versions 45min
+03:30PM Rails Magic 60min
 
 04:30PM Gamification at Pfeffermind 30min
 
@@ -67,17 +67,17 @@ Track 2:
 
 12:00PM Lunch
 
-01:00PM Rails for Python Developers lightning
+01:00PM User Interface CSS in Rails Apps 30min
 
-01:05PM Ruby vs. Clojure for Back-End Development 30min
+01:30PM Lua for the Masses 30min
 
-01:35PM User Interface CSS in Rails Apps 30min
+02:00PM Ruby on Rails: Why We Should Move On 60min
 
-02:05PM Lua for the Masses 30min
+03:00PM Rails for Python Developers lightning
 
-02:35PM Common Ruby Errors 45min
+03:05PM Common Ruby Errors 45min
 
-03:20PM Ruby on Rails: Why We Should Move On 60min
+03:50PM Ruby vs. Clojure for Back-End Development 30min
 
 04:20PM Programming in the Boondocks of Seattle 30min
 
