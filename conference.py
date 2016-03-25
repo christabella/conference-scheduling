@@ -14,6 +14,7 @@ import re
 import math
 import sys
 import logging
+from random import shuffle
 
 ############################################################
 #   Constants
@@ -114,8 +115,11 @@ Iterate through all talks from longest to shortest, trying to place each talk in
 (in the order of [track 1's morning session, track 2's morning session, ... , track 1's afternoon session, ...])
 to fill up all sessions as evenly as possible with the longer talks first.
 '''
+print "len sessions"
+print len(sessions)
+
+current_session_index = 0
 while(talks):
-    current_session_index = 0
     talk = talks[0]
     while(True):
         session = sessions[current_session_index]
@@ -134,7 +138,13 @@ while(talks):
 
 
 ############################################################
-#   Print Schedule
+#   Randomize order of talks within sessions
+############################################################
+for session in sessions:
+    shuffle(session.talks)
+
+############################################################
+#   Print final schedule
 ############################################################
 
 def add_minutes(time, mins):
