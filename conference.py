@@ -115,8 +115,6 @@ Iterate through all talks from longest to shortest, trying to place each talk in
 (in the order of [track 1's morning session, track 2's morning session, ... , track 1's afternoon session, ...])
 to fill up all sessions as evenly as possible with the longer talks first.
 '''
-print "len sessions"
-print len(sessions)
 
 current_session_index = 0
 while(talks):
