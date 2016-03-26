@@ -31,55 +31,60 @@ Gamification at Pfeffermind 30min
 ```
 Track 1:
 
-09:00AM Accounting-Driven Development 45min
+09:00AM Writing Fast Tests Against Enterprise Rails 60min
 
-09:45AM Writing Fast Tests Against Enterprise Rails 60min
+10:00AM Communicating Over Distance 60min
 
-10:45AM Ruby on Rails Legacy App Maintenance 60min
-
-11:45AM Break
+11:00AM Rails Magic 60min
 
 12:00PM Lunch
 
-01:00PM Clojure Ate Scala (on my project) 45min
+01:00PM Ruby on Rails: Why We Should Move On 60min
 
-01:45PM Ruby Errors from Mismatched Gem Versions 45min
+02:00PM Common Ruby Errors 45min
 
-02:30PM Sit Down and Write 30min
+02:45PM Accounting-Driven Development 45min
 
-03:00PM A World Without HackerNews 30min
+03:30PM Pair Programming vs Noise 45min
 
-03:30PM Rails Magic 60min
-
-04:30PM Gamification at Pfeffermind 30min
+04:15PM Clojure Ate Scala (on my project) 45min
 
 05:00PM Networking Event
 
 Track 2:
 
-09:00AM Communicating Over Distance 60min
+09:00AM Ruby on Rails Legacy App Maintenance 60min
 
 10:00AM Overdoing it in Python 45min
 
-10:45AM Pair Programming vs Noise 45min
+10:45AM Ruby Errors from Mismatched Gem Versions 45min
 
-11:30AM Woah 30min
+11:30AM Lua for the Masses 30min
 
 12:00PM Lunch
 
-01:00PM User Interface CSS in Rails Apps 30min
+01:00PM Woah 30min
 
-01:30PM Lua for the Masses 30min
+01:30PM Sit Down and Write 30min
 
-02:00PM Ruby on Rails: Why We Should Move On 60min
+02:00PM Programming in the Boondocks of Seattle 30min
 
-03:00PM Rails for Python Developers lightning
+02:30PM Ruby vs. Clojure for Back-End Development 30min
 
-03:05PM Common Ruby Errors 45min
+03:00PM A World Without HackerNews 30min
 
-03:50PM Ruby vs. Clojure for Back-End Development 30min
+03:30PM User Interface CSS in Rails Apps 30min
 
-04:20PM Programming in the Boondocks of Seattle 30min
+04:00PM Gamification at Pfeffermind 30min
 
-04:50PM Networking Event
+04:30PM Rails for Python Developers lightning
+
+04:35PM Networking Event
 ```
+
+### Constraints
+* Conference can have multiple tracks, each with a morning and afternoon session
+* Morning sessions are from 9:00-12:00 (**Lunch**)
+* Afternoon sessions are from 13:00-**Networking**; **Networking** can be anytime from 16:00 - 17:00.
+* Lightning talks are 5 minutes long.
+* There are no gaps between talks. (However, if necessary, there are breaks in between the end of a session and the start of either **Lunch** or **Networking**.)
